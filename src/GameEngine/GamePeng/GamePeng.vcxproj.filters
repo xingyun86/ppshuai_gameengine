@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="GameLogic.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GamePeng.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GamePengDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="NumberString.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ScoreView.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SpriteItem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="GamePeng.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GamePengDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ReadMe.txt" />
+    <None Include="res\Sound\A_combo1.ogg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\Sound\A_combo2.ogg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\Sound\A_combo3.ogg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\Sound\A_combo4.ogg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\Sound\A_combo5.ogg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\Sound\bgm_game.ogg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\BT_CLOSE.PNG">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\GAME_SCORE.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\GamePeng.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\GamePeng.rc2">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\icon.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\logo.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\net.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\restart.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\Sound\S_bomb.ogg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\Slider_back.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\Slider_channel.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\Slider_Thum.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\StateBack.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\unipay_pic_fendiamond.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\Sound\V_ready.ogg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\Sound\V_timeover.ogg">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{5e2364fb-5fbe-42fe-a757-710ba9f95a1d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{768ec164-290a-4fe0-b8bb-ff65ba439d9e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{ebe5a12e-bf1c-40eb-9535-82933d185ebc}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\BOMB.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\BT_START.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\CHESS0.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\CHESS1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\CHESS2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\CHESS3.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\CHESS4.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\CHESS5.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\CHESS6.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\CHOOSE.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\GAME_SCORE_NUMBER.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\TIME_BACK.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\TIME_NUMBER.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\TIME_THUMB.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\VIEW_BACK.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="GamePeng.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
